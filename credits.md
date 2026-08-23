@@ -1,3 +1,7 @@
+# Maps
+All original map authors! Most of the credits go to them!!
+
+
 # Map Suggestions
 zm_atix_helicopter - [Nivéal](https://steamcommunity.com/id/Niveal/)
 zm_winter_helicopter - [Kairo](http://https://steamcommunity.com/profiles/76561198875416812/)
@@ -13,6 +17,8 @@ paper escape
 venice escape
 death escape (death star?)
 titanic map
+ze_sorrento_escape
+omahole? wtf
 
 # Map help
 [atokosya](https://steamcommunity.com/id/nullnullnullnullnullnulll/) - helping with logic_timers for spawning special infected AND diagnosing game issues with the mod
