@@ -2,7 +2,7 @@
 {
 	addonversion		"1.0"				//Max 31 	characters. Allows decimals.
 	addontitle			"Zombie Escape Map Assets"	//Max 127 	characters.
-	addonauthor			"Isatis (kit_the_firefox)"	//Max 119 	characters.
+	addonauthor			"Niveal Catto"	//Max 119 	characters.
 	addonDescription	"Description_Here"	//Max 1023 	characters.
 	
 	// These booleans act as content descriptors, showing up as tags ingame.

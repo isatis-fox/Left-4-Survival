@@ -1,0 +1,1 @@
+Most if not everything in this folder is in the VPK to keep file size down for Github.
