@@ -3,10 +3,10 @@ All original map authors! Most of the credits go to them!!
 
 
 # Map Suggestions
-zm_atix_helicopter - [Nivéal](https://steamcommunity.com/id/Niveal/)
-zm_winter_helicopter - [Kairo](http://https://steamcommunity.com/profiles/76561198875416812/)
+zm_atix_helicopter - [Nivéal](https://steamcommunity.com/id/Niveal/)<br>
+zm_winter_helicopter - [Kairo](http://steamcommunity.com/profiles/76561198875416812/)<br>
 
-paper escaper - [atokosya](https://steamcommunity.com/id/nullnullnullnullnullnulll/)
+paper escaper - [atokosya](https://steamcommunity.com/id/nullnullnullnullnullnulll/)<br>
 undertale - [Łufasu](https://steamcommunity.com/id/Wo-chanAircraftCarrier/)
 
 # Map Suggestions (unsure who suggested)
