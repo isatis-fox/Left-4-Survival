@@ -57,6 +57,7 @@ def vpk(dirname: str):
             ],
             cwd=CWD
         )
+        
 # Go through directories
 for dir in os.listdir():
     # Does it have "addoninfo.txt"?
